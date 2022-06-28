@@ -1,0 +1,7 @@
+D:\PERSONAL\C# Basics\BasicConcepts\EvenOddDemo\obj\Debug\EvenOddDemo.csproj.CoreCompileInputs.cache
+D:\PERSONAL\C# Basics\BasicConcepts\EvenOddDemo\bin\Debug\EvenOddDemo.exe.config
+D:\PERSONAL\C# Basics\BasicConcepts\EvenOddDemo\bin\Debug\EvenOddDemo.exe
+D:\PERSONAL\C# Basics\BasicConcepts\EvenOddDemo\bin\Debug\EvenOddDemo.pdb
+D:\PERSONAL\C# Basics\BasicConcepts\EvenOddDemo\obj\Debug\EvenOddDemo.exe
+D:\PERSONAL\C# Basics\BasicConcepts\EvenOddDemo\obj\Debug\EvenOddDemo.pdb
+D:\PERSONAL\C# Basics\BasicConcepts\EvenOddDemo\obj\Debug\EvenOddDemo.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\bin\Debug\net5.0\PallimdromeDemo.exe
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\bin\Debug\net5.0\PallimdromeDemo.deps.json
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\bin\Debug\net5.0\PallimdromeDemo.runtimeconfig.json
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\bin\Debug\net5.0\PallimdromeDemo.runtimeconfig.dev.json
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\bin\Debug\net5.0\PallimdromeDemo.dll
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\bin\Debug\net5.0\ref\PallimdromeDemo.dll
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\bin\Debug\net5.0\PallimdromeDemo.pdb
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\obj\Debug\net5.0\PallimdromeDemo.csproj.AssemblyReference.cache
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\obj\Debug\net5.0\PallimdromeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\obj\Debug\net5.0\PallimdromeDemo.AssemblyInfoInputs.cache
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\obj\Debug\net5.0\PallimdromeDemo.AssemblyInfo.cs
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\obj\Debug\net5.0\PallimdromeDemo.csproj.CoreCompileInputs.cache
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\obj\Debug\net5.0\PallimdromeDemo.dll
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\obj\Debug\net5.0\ref\PallimdromeDemo.dll
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\obj\Debug\net5.0\PallimdromeDemo.pdb
+D:\PERSONAL\C# Basics\BasicConcepts\PallimdromeDemo\obj\Debug\net5.0\PallimdromeDemo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\bin\Debug\net5.0\StringDemo.exe
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\bin\Debug\net5.0\StringDemo.deps.json
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\bin\Debug\net5.0\StringDemo.runtimeconfig.json
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\bin\Debug\net5.0\StringDemo.runtimeconfig.dev.json
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\bin\Debug\net5.0\StringDemo.dll
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\bin\Debug\net5.0\ref\StringDemo.dll
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\bin\Debug\net5.0\StringDemo.pdb
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\obj\Debug\net5.0\StringDemo.csproj.AssemblyReference.cache
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\obj\Debug\net5.0\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\obj\Debug\net5.0\StringDemo.AssemblyInfoInputs.cache
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\obj\Debug\net5.0\StringDemo.AssemblyInfo.cs
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\obj\Debug\net5.0\StringDemo.csproj.CoreCompileInputs.cache
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\obj\Debug\net5.0\StringDemo.dll
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\obj\Debug\net5.0\ref\StringDemo.dll
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\obj\Debug\net5.0\StringDemo.pdb
+D:\PERSONAL\C# Basics\BasicConcepts\StringDemo\obj\Debug\net5.0\StringDemo.genruntimeconfig.cache
